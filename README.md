@@ -18,4 +18,4 @@ Use Stripe for Payment Processing, with Checkout SDK
 See .env.example for ENV Variables
 
 Next Frontend at https://github.com/GalloDaSballo/Next-Ecommerce-Frontend
-sdfadfdfdf
+sdfadfdfdfsdfsdfff
